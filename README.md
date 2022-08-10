@@ -13,13 +13,21 @@ The dataset contains 7,789 rows with 11 columns or fields which consists listing
 
 •	Identified  duplicated and missing data
 
-• Formated the DataFrame
+• Formatted the Data Frame
 
 •	Performed exploratory data analysis 
 
+![]()
 
 
 
 
+
+
+### About me
+
+![](/images/pass.png)
+
+My name is Ibrahim Saka and I'm a certified Google data analyst. I’m passionate about helping businesses and industries to succeed. Also, I’m a firm believer in using data to address humanitarian issues and make the world better.
 
 
