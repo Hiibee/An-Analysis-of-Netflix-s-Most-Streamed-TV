@@ -17,16 +17,29 @@ The dataset contains 7,789 rows with 11 columns or fields which consists listing
 
 •	Performed exploratory data analysis 
 
-![]()
-
-
-
-
+![](https://github.com/Hiibee/An-Analysis-of-Netflix-s-Most-Streamed-TV/blob/main/IMAGE/1ause.png)
+![](https://github.com/Hiibee/An-Analysis-of-Netflix-s-Most-Streamed-TV/blob/main/IMAGE/2ause.png)
+![](https://github.com/Hiibee/An-Analysis-of-Netflix-s-Most-Streamed-TV/blob/main/IMAGE/3.png)
+![](https://github.com/Hiibee/An-Analysis-of-Netflix-s-Most-Streamed-TV/blob/main/IMAGE/4.png)
+![](https://github.com/Hiibee/An-Analysis-of-Netflix-s-Most-Streamed-TV/blob/main/IMAGE/5.png)
+![](https://github.com/Hiibee/An-Analysis-of-Netflix-s-Most-Streamed-TV/blob/main/IMAGE/6.png)
+![](https://github.com/Hiibee/An-Analysis-of-Netflix-s-Most-Streamed-TV/blob/main/IMAGE/7.png)
+![](https://github.com/Hiibee/An-Analysis-of-Netflix-s-Most-Streamed-TV/blob/main/IMAGE/8.png)
+![](https://github.com/Hiibee/An-Analysis-of-Netflix-s-Most-Streamed-TV/blob/main/IMAGE/9.png)
+![](https://github.com/Hiibee/An-Analysis-of-Netflix-s-Most-Streamed-TV/blob/main/IMAGE/10.png)
+![](https://github.com/Hiibee/An-Analysis-of-Netflix-s-Most-Streamed-TV/blob/main/IMAGE/11.png)
+![](https://github.com/Hiibee/An-Analysis-of-Netflix-s-Most-Streamed-TV/blob/main/IMAGE/12.png)
+![](https://github.com/Hiibee/An-Analysis-of-Netflix-s-Most-Streamed-TV/blob/main/IMAGE/13.png)
+![](https://github.com/Hiibee/An-Analysis-of-Netflix-s-Most-Streamed-TV/blob/main/IMAGE/14.png)
+![](https://github.com/Hiibee/An-Analysis-of-Netflix-s-Most-Streamed-TV/blob/main/IMAGE/15.png)
+![](https://github.com/Hiibee/An-Analysis-of-Netflix-s-Most-Streamed-TV/blob/main/IMAGE/16.png)
+![](https://github.com/Hiibee/An-Analysis-of-Netflix-s-Most-Streamed-TV/blob/main/IMAGE/17.png)
+![](https://github.com/Hiibee/An-Analysis-of-Netflix-s-Most-Streamed-TV/blob/main/IMAGE/18.png)
 
 
 ### About me
 
-![](/images/pass.png)
+![](https://github.com/Hiibee/An-Analysis-of-Netflix-s-Most-Streamed-TV/blob/main/IMAGE/pass.png)
 
 My name is Ibrahim Saka and I'm a certified Google data analyst. I’m passionate about helping businesses and industries to succeed. Also, I’m a firm believer in using data to address humanitarian issues and make the world better.
 
