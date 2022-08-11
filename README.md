@@ -4,7 +4,8 @@ Netflix is an American subscription streaming service and production company bas
 Netflix is one of the most popular media and video streaming platforms. They have over 8000 Movies or Tv shows available on their platform, as of mid-2021, they have 
 over 200M Subscribers globally.
 
-### Project Overview
+### Project Overview:
+
 The dataset contains 7,789 rows with 11 columns or fields which consists listings of all the Movies and Tv shows available on Netflix, along with details such as - cast, directors, ratings, release year, duration.
 #### steps  taken 
 • Imported libraries and the dataset
