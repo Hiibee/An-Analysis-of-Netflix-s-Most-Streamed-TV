@@ -39,7 +39,7 @@ The dataset contains 7,789 rows with 11 columns or fields which consists listing
 
 ### About me
 
-![](https://github.com/Hiibee/An-Analysis-of-Netflix-s-Most-Streamed-TV/blob/main/IMAGE/pass.png)
+![](/IMAGE/pass.png)
 
 My name is Ibrahim Saka and I'm a certified Google data analyst. I’m passionate about helping businesses and industries to succeed. Also, I’m a firm believer in using data to address humanitarian issues and make the world better.
 
