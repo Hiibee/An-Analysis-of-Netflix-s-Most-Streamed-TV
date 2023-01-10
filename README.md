@@ -42,6 +42,6 @@ The dataset contains 7,789 rows with 11 columns or fields which consists listing
 
 ![](/IMAGE/pass.png)
 
-My name is Ibrahim Saka and I'm a certified Google data analyst. I’m passionate about helping businesses and industries to succeed. Also, I’m a firm believer in using data to address humanitarian issues and make the world better.
+Ibrahim Saka is a certified Google data analyst. He’s an highly skilled and process oriented analyst with and in depth knowledge of database types, research methodology, data entry, data cleaning, data analysis and data visualization. He's Highly recommended for problem solving and solution driven analysis. He has more than 3 years of professional experience working with data and information system. He's passionate about helping businesses and industries to succeed. A firm believer in using data to address humanitarian issues and make the world better.
 
 
