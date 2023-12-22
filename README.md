@@ -7,7 +7,7 @@ over 200M Subscribers globally.
 ### Project Overview:
 
 The dataset contains 7,789 rows with 11 columns or fields which consists listings of all the Movies and Tv shows available on Netflix, along with details such as - cast, directors, ratings, release year, duration.
-#### steps  taken 
+#### Steps  taken 
 • Imported libraries and the dataset
 
 •	read in data; take a glimpse at few rows
@@ -42,6 +42,6 @@ The dataset contains 7,789 rows with 11 columns or fields which consists listing
 
 ![](/IMAGE/pass.png)
 
-Ibrahim Saka is a certified Google data analyst. He’s an highly skilled and process oriented analyst with and in depth knowledge of database types, research methodology, data entry, data cleaning, data analysis and data visualization. He's highly recommended for problem solving and solution driven analysis. He has more than 3 years of professional experience working with data and information system. He's passionate about helping businesses and industries to succeed. A firm believer in using data to address humanitarian issues and make the world better.
+Ibrahim Saka is a certified Google data analyst. He’s an highly skilled and data driven analyst with an in depth knowledge of database types, research methodology, data entry, data cleaning, data analysis and data visualization. He's highly recommended for problem solving and solution driven analysis.  
 
 
